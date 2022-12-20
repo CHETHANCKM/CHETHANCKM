@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CHETHAN S
-- 🌱 I’m currently a Final Year Student in B.E (CSE) @Adichunchanagiri Institute of Technology
+- 🌱 TCSer | Adichunchanagiri Institute of Technology. 
 - 📫 Reach me at cchethans14@gmail.com
 
 <!---
